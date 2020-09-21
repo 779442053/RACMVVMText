@@ -1,0 +1,6 @@
+framework module Pods_RACText {
+  umbrella header "Pods-RACText-umbrella.h"
+
+  export *
+  module * { export * }
+}
